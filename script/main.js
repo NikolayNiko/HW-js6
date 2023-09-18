@@ -29,5 +29,5 @@ for (let i = 0; i < count; i++) {
 alert(
     'Ваш результат' + '\n' +
     Math.round(sumRightAnswer * (12 / count)) + ' балів з 12' + '\n' +
-    'До побачення )))'
+    'До побачення !!! )))'
 )
